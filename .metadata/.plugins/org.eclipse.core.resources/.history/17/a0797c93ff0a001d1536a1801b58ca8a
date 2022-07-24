@@ -1,0 +1,9 @@
+package com.Basic_java_class_1;
+
+public class InstanceVariableDemo {
+        
+	
+	    public static void main(String[] args) {
+	        System.out.println("HI");
+}
+}
