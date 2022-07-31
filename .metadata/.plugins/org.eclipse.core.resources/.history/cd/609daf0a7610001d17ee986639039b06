@@ -1,0 +1,12 @@
+package com.Basic_java_class_3;
+
+import com.Basic_java_class_2.AccessModifiersDemo;
+
+public class UseAccessModifiersDemo {
+
+	public static void main(String[] args) {
+		AccessModifiersDemo acceModifiersDemo=new AccessModifiersDemo(10,20,30);
+		System.out.println("The value of Public Access Modifiers num2 is "+ acceModifiersDemo.num2);
+		
+	}
+}

@@ -1,0 +1,10 @@
+package com.Basic_java_class_2;
+
+public class AdvancedCastingDemo {
+
+	  public static void main(String[] args) {
+		  String data1="12345";
+		  int resdata1=Integer.parseInt(data1);
+		  
+	}
+}

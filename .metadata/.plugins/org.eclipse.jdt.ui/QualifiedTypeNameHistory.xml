@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.Basic_java_class_1.InstanceVariableDemo"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="java.lang.Class"/>
+    <fullyQualifiedTypeName name="com.Basic_java_class_2.AccessModifiersDemo"/>
+    <fullyQualifiedTypeName name="com.Basic_java_class_2.UseAccessModifiersDemoDefault"/>
+</qualifiedTypeNameHistroy>

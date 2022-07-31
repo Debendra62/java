@@ -1,0 +1,20 @@
+package com.Basic_java_class_2;
+
+public class DataTypeDemo {
+	
+	
+	
+	public static void main(String[] args) {
+		int num1=2;
+		long num2=23L;
+		double num3=3.45;
+		float num4=5.67f;
+		char data1='a';
+		String data2="Nepal ";
+		boolean flag=true;
+		byte data3=3;
+		int[] dataarray= {1,2,3,4};
+		char[] stringarray="a,b,c"
+	}
+
+}

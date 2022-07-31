@@ -11,8 +11,23 @@ public class AccessModifiersDemo {
     	this.num3=num3;
 
     }
+    
+	//make a public method to use the private data in another package or another class
+    public int getNum1() {
+    	return num1;
+    }
+    
+    void findSum() {
+    	int sum=0;
+    	sum=num1+num2+num3;
+    	System.out.println("Sum of  "+num1+","+num2+" and "+num3+" is "+sum);
+    }
 	
-	public static void main(String[] args) {
-		
-	}
+    /*
+     private = with in the class
+     default = with in the pakage
+     public = everywhere
+     protected =  
+     
+     */
 }

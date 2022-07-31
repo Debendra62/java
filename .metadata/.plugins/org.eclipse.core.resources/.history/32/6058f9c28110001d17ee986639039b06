@@ -1,0 +1,12 @@
+package com.Basic_java_class_3;
+
+public class AbstractDemoUse extends AbstractDemo {
+
+	public  abstract void mul(int num1,int num2) {
+	
+	}
+	public  abstract int sub(int num1,int num2) {
+		
+	}
+	
+}

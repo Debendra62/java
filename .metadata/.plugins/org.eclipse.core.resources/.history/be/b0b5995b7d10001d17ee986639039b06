@@ -1,0 +1,22 @@
+package com.Basic_java_class_3;
+
+public class StaticNonAccessModifierDemo {
+public static int num1=4;
+
+public static void setMethod(int num1) {
+	num1=num1;	
+}
+
+public static int getMethod() {
+	return num1;
+	
+}
+
+public static void main(String[] args) {
+	StaticNonAccessModifierDemo  staticNonAccessModifierDemo =new StaticNonAccessModifierDemo();
+	staticNonAccessModifierDemo.setMethod(5);
+	System.out.println("The static value is " +staticNonAccessModifierDemo.getMethod());
+
+	
+}
+}

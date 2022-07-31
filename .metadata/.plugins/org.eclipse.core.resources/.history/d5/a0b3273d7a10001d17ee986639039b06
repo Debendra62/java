@@ -1,0 +1,11 @@
+package com.Basic_java_class_3;
+
+public class FinalVariableDemo {
+
+	
+	public static void main(String[] args) {
+		int num1=10;
+		num1=20;
+		System.out.println("The value of num one is "+num1);
+	}
+}
