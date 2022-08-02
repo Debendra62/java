@@ -11,6 +11,6 @@ public abstract class AbstractDemo {
 	public  abstract void mul(int num1,int num2) ;
 	
 	public  abstract int sub(int num1,int num2) ;
-
+   
 
 }
