@@ -27,7 +27,7 @@ public class IfStatementDemo {
 		
 		boolean result = checkGender(gender);		
 		System.out.println(result);
-		
+		scanner.close();
 	}
 	
 	private static boolean checkGender(String gender) {

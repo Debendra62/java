@@ -15,5 +15,6 @@ public static void main(String[] args) {
 	{
 		System.out.println("You are selected for Web Developer");
 	}
+	scanner.close();
 }
 }
