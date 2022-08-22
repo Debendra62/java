@@ -6,6 +6,10 @@
     <fullyQualifiedTypeName name="com.Basic_java_class_2.AccessModifiersDemo"/>
     <fullyQualifiedTypeName name="com.Basic_java_class_2.UseAccessModifiersDemoDefault"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.Basic_java_class_9.ArrayDemo"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="com.Basic_java_class_9.PassArrayInParameter"/>
 </qualifiedTypeNameHistroy>
