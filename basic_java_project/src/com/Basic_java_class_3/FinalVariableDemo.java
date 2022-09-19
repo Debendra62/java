@@ -1,6 +1,6 @@
 package com.Basic_java_class_3;
 
-// final variable cannot be changed if initilized it will show error if tried to change
+// final variable cannot be changed if initialized it will show error if tried to change
 public class FinalVariableDemo {
 
 	

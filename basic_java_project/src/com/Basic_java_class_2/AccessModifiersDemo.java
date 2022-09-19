@@ -25,7 +25,7 @@ public class AccessModifiersDemo {
 	
     /*
      private = with in the class
-     default = with in the pakage
+     default = with in the package
      public = everywhere
      protected =  
      

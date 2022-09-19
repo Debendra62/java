@@ -6,7 +6,7 @@ public class InstanceVariableDemo {
         private int sum;
         private int mul;
         
-        InstanceVariableDemo(int num1,int num2) {
+        InstanceVariableDemo(int num1,int num2){
 			this.num1=num1;
 			this.num2=num2;
 			
