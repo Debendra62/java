@@ -1,0 +1,32 @@
+package com.Basic_java_class_20;
+
+public class Addition {
+
+	private int num1;
+	private int num2;
+	
+		
+	public int getNum1() {
+		return num1;
+	}
+
+
+	public void setNum1(int num1) {
+		this.num1 = num1;
+	}
+
+
+	public int getNum2() {
+		return num2;
+	}
+
+
+	public void setNum2(int num2) {
+		this.num2 = num2;
+	}
+
+
+	public void displayAdd2() {
+		System.out.println("The sum is: "+(num1+num2));
+	}
+}
